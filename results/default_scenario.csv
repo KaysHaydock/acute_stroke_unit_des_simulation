@@ -1,0 +1,10 @@
+,Bed Capacity,Avg. Patients,Overall Bed Utilization,Overall Delay Probability,1 in every n Patients,Scenario
+0,9,2785.6266666666666,0.96,0.86,1.0,Current Admissions
+1,10,2788.22,0.86,0.57,2.0,Current Admissions
+2,11,2788.58,0.79,0.36,3.0,Current Admissions
+3,12,2788.9533333333334,0.72,0.22,5.0,Current Admissions
+4,13,2789.0133333333333,0.66,0.13,8.0,Current Admissions
+5,14,2789.0266666666666,0.62,0.07,14.0,Current Admissions
+6,15,2788.9866666666667,0.58,0.04,27.0,Current Admissions
+7,16,2788.9533333333334,0.54,0.02,55.0,Current Admissions
+8,17,2788.94,0.51,0.01,114.0,Current Admissions

@@ -1,0 +1,10 @@
+,Bed Capacity,Avg. Patients,Overall Bed Utilization,Overall Delay Probability,1 in every n Patients,Scenario
+0,9,2654.5466666666666,0.91,0.73,1.0,5% Increase in Admissions
+1,10,2653.92,0.82,0.47,2.0,5% Increase in Admissions
+2,11,2654.153333333333,0.75,0.28,4.0,5% Increase in Admissions
+3,12,2654.346666666667,0.69,0.17,6.0,5% Increase in Admissions
+4,13,2654.3866666666668,0.63,0.09,11.0,5% Increase in Admissions
+5,14,2654.44,0.59,0.05,20.0,5% Increase in Admissions
+6,15,2654.4733333333334,0.55,0.02,40.0,5% Increase in Admissions
+7,16,2654.4866666666667,0.51,0.01,85.0,5% Increase in Admissions
+8,17,2654.4866666666667,0.48,0.01,181.0,5% Increase in Admissions
