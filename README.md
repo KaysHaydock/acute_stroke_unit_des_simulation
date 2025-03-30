@@ -20,6 +20,7 @@ Kayleigh Haydock and Guled Abdullahi
 ├── images/                                 # Diagrams and visual outputs
 │   ├── asu_model.png
 │   ├── replicated_model.png
+│   ├── iteration_1.png
 │   └── dataframe_op.png
 ├── iterations/                             # Iterative development notebooks and Streamlit app builds
 │   ├── 1_iteration.ipynb
@@ -42,6 +43,7 @@ Kayleigh Haydock and Guled Abdullahi
 ├── 7_iteration.ipynb                       # Final consolidated model notebook
 ├── final_report.ipynb                      # Final report write-up
 ├── distribution.py                         # Parameter sampling logic
+├── stroke_appendix_data.ipynb              # Research papers data inputs
 ├── LICENSE                                 # Project license
 ├── .gitignore                              # Files to ignore in GitHub
 └── README.md                               # You're here!
