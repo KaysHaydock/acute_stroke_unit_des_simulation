@@ -57,7 +57,7 @@ Kayleigh Haydock and Guled Abdullahi
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/KaysHaydock
+git clone https://github.com/KaysHaydock/acute_stroke_unit_des_simulation/
 ```
 ```bash
 cd acute_stroke_des_simulation
@@ -101,11 +101,13 @@ streamlit run iterations/my_streamlit_app_3.py
 **Model Comparison**
 
 ![ASU Original](images/asu_model.png)
+
 ![Replicated Model](images/replicated_model.png)
+
 
 **Output Example**
 
-![Simulation Output](images/comparison_delay_probability.png)
+![Simulation Output](results/comparing_delay_probability.png)
 
 ---
 
