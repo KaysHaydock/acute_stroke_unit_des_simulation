@@ -38,8 +38,8 @@ Kayleigh Haydock and Guled Abdullahi
 ├── result/                                 # Simulation outputs and summary CSVs
 │   ├── default_scenario.csv
 │   ├── exclusion.csv
-│   ├── increas_scenario.csv
-│   └── comparison_delay_probability.png
+│   ├── increase_scenario.csv
+│   └── comparing_delay_probability.png
 ├── 7_iteration.ipynb                       # Final consolidated model notebook
 ├── final_report.ipynb                      # Final report write-up
 ├── distribution.py                         # Parameter sampling logic
@@ -60,7 +60,7 @@ Kayleigh Haydock and Guled Abdullahi
 git clone https://github.com/KaysHaydock
 ```
 ```bash
-cd acute_stroke_discrete_event_simulation_model
+cd acute_stroke_des_simulation
 ```
 
 2. Create a virtual environment and install dependencies:
